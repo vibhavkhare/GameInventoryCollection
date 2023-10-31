@@ -1,5 +1,5 @@
 public class Game {
-// Declare instance variables
+// Declare instance variables 
 	private String name;
 	private String description;
 	private double price;
