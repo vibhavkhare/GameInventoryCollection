@@ -1,15 +1,3 @@
-//package CSE205;
-
-/**
- * Assignment #: Assignment 11
- * Name: Vibhav Khare
- * StudentID: 1224826473
- * Lecture: 1:30 - 2:45 T/Th
- * Description: For this assignment we use Binary search trees that store Game objects. This program focuses on
- * the creation of a game inventory sorted by BSTs. In the program we have to implement methods that insert, delete
- * and sort the prices of items. There are also other methods in need for implementation to help the program
- * run conveniently. 
- */
 public class Game {
 // Declare instance variables
 	private String name;
