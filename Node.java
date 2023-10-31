@@ -1,5 +1,5 @@
 public class Node {
-// Declare instance variables
+// Declare instance variables 
 	private Game game;
 	private Node left, right;
 
